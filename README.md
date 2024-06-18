@@ -31,7 +31,8 @@ Capture packets using sudo wireshark to analyze communication details.
 
 D. Congestion Window Plot
 Refer to the provided Python script for the plot between congestion window and time.
-![Figure 1](https://github.com/Yogender21505/Analyzed-TCP-Traffic/blob/assets/104339650/dc679ac7-d471-4f2a-a20a-8ec180801f21.png)
+![Figure 1](Figure_1.png)
+
 
 
 
